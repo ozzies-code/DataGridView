@@ -1,0 +1,12 @@
+C:\Users\oswal\source\repos\DataGridView\bin\Debug\DataGridView.exe.config
+C:\Users\oswal\source\repos\DataGridView\bin\Debug\DataGridView.exe
+C:\Users\oswal\source\repos\DataGridView\bin\Debug\DataGridView.pdb
+C:\Users\oswal\source\repos\DataGridView\bin\Debug\DataGridView.xml
+C:\Users\oswal\source\repos\DataGridView\obj\Debug\DataGridView.vbproj.AssemblyReference.cache
+C:\Users\oswal\source\repos\DataGridView\obj\Debug\DataGridView.Form1.resources
+C:\Users\oswal\source\repos\DataGridView\obj\Debug\DataGridView.Resources.resources
+C:\Users\oswal\source\repos\DataGridView\obj\Debug\DataGridView.vbproj.GenerateResource.cache
+C:\Users\oswal\source\repos\DataGridView\obj\Debug\DataGridView.vbproj.CoreCompileInputs.cache
+C:\Users\oswal\source\repos\DataGridView\obj\Debug\DataGridView.exe
+C:\Users\oswal\source\repos\DataGridView\obj\Debug\DataGridView.xml
+C:\Users\oswal\source\repos\DataGridView\obj\Debug\DataGridView.pdb
